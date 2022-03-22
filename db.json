@@ -1,34 +1,22 @@
 {
   "tasks": [
     {
-      "text": "Ngaji",
-      "day": "Everyday at 6.30pm",
+      "text": "Makan",
+      "day": "Every day at 10.30 and 17.00",
       "reminder": true,
       "id": 1
     },
     {
-      "text": "Workout",
-      "day": "Tuesday, Wednesday, Saturday, Sunday at 3.30pm",
+      "text": "Ngemil",
+      "day": "Every day at 14.30 and 21.30",
       "reminder": true,
       "id": 2
     },
     {
-      "text": "Run",
-      "day": "Monday and Thursday at 4.45pm",
-      "reminder": true,
-      "id": 3
-    },
-    {
-      "text": "Eat",
-      "day": "Everyday at 11am and 5pm",
+      "text": "Workout",
+      "day": "Monday, Thursday, and Weekend at 20.00",
       "reminder": false,
-      "id": 4
-    },
-    {
-      "text": "Ngepet",
-      "day": "Every second",
-      "reminder": true,
-      "id": 5
+      "id": 3
     }
   ]
 }
